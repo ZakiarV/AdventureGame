@@ -1,5 +1,5 @@
 import os
-from AdventureGame.AdventureGameFiles.get_directory_path import get_directory_path
+from AdventureGameFiles.get_directory_path import get_directory_path
 
 
 def get_file_list(directory: str = "Saves/") -> list:
